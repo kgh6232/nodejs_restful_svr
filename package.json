@@ -1,0 +1,23 @@
+{
+  "name": "nodejs_restful_svr",
+  "version": "1.0.0",
+  "description": "nodejd를 사용한 RESTful API Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kgh6232/nodejs_restful_svr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kgh6232/nodejs_restful_svr/issues"
+  },
+  "homepage": "https://github.com/kgh6232/nodejs_restful_svr#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
